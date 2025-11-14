@@ -3,6 +3,12 @@ import { motion } from "framer-motion";
 const projects = [
   {
     year: "2025",
+    title: "Medibot App",
+    description:
+      "It’s a seamless, user-friendly solution for improving healthcare accessibility and efficiency. Medibot combines AI-driven assistance with a real-time interface, making healthcare management simpler, faster, and more interactive.",
+  },
+  {
+    year: "2025",
     title: "Image Search App",
     description:
       "Real-time search app with infinite scroll, download options, and responsive UI using React, Unsplash API, and Bootstrap.",

@@ -23,6 +23,13 @@ const projects = [
       "A responsive to-do app built with React. Features include task filtering, sorting, and a clear-all button. Strengthened skills in hooks, state, and UI design.",
     link: "https://github.com/Dharmendra-Kumar148/react-to-do.git",
   },
+  
+  {
+    title: "Medibot App",
+    description:
+      " Excited to share my latest project: Medibot  your AI-powered healthcare assistant. Medibot is a Flutter-based mobile app designed to streamline healthcare communication for patients and doctors.",
+    link: "https://github.com/Asvix-04/MediBot-Flutter-App.git",
+  }
 ];
 
 const Projects = () => {
