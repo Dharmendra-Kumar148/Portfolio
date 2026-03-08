@@ -11,7 +11,7 @@ const projects = [
     link: "https://github.com/Dharmendra-Kumar148/student-portal.git",
   },
   {
-    title: "Image Search",
+    title: "Zentic",
     description:
       "A real-time image search app with infinite scroll, Bootstrap UI, and download options in various sizes. Built using React, Axios, and a REST API.",
     link: "https://github.com/Dharmendra-Kumar148/gptsearch.git",
