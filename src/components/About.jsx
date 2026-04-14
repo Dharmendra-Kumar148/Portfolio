@@ -61,7 +61,7 @@ const About = () => {
           whileInView={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 1 }}
         >
-          I’m Dharmendra Kumar, a passionate and detail-oriented developer who crafts fast, scalable, and clean interfaces using modern tools. I enjoy building sleek UIs, solving problems, and collaborating in high-energy teams.
+          I’m Dharmendra Kumar, a Flutter Developer with hands-on experience building cross-platform mobile applications. I specialize in developing scalable apps with clean UI, integrating REST APIs, Firebase, and real-time features. I have worked on a healthcare application with AI chatbot integration, and I enjoy solving real-world problems through efficient and user-friendly mobile solutions.
         </motion.p>
 
         <div className="h-1 w-24 mx-auto bg-gradient-to-r from-white via-gray-400 to-white rounded-full mb-12" />

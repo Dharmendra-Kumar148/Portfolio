@@ -91,7 +91,7 @@ const Hero = () => {
 
   const typedName = useTypeOnScroll("Hi, I’m Dharmendra Kumar.", 80, scrollKey);
   const typedTagline = useTypeOnce(
-    "A software developer focused on creating fast, clean, and modern web experiences.",
+    "A software developer focused on building fast, scalable, and modern web and mobile applications.",
     25
   );
 
