@@ -9,21 +9,15 @@ const projects = [
   },
   {
     year: "2025",
-    title: "Image Search App",
+    title: "Zentic",
     description:
       "Real-time search app with infinite scroll, download options, and responsive UI using React, Unsplash API, and Bootstrap.",
   },
   {
-    year: "2024",
-    title: "Student CRUD System",
+    year: "2026",
+    title: "<NBS/>",
     description:
-      "A complete student management system built in React using JSON Server and React Router with full CRUD functionality.",
-  },
-  {
-    year: "2023",
-    title: "Daily Planner App",
-    description:
-      "To-do list app built with React using local state, hooks, and filtering features for everyday task management.",
+      "Creative Development, AI Integration, CMS-Powered Solutions, In short, NBS is where modern web engineering meets cinematic storytelling.",
   },
 ];
 

@@ -5,10 +5,11 @@ import { Github, ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "CRUD operations",
+    title: "<NBS/>",
     description:
-      "This project is a student management system where you can view, add, edit, and delete student records. It uses React, React Router, and JSON Server for full CRUD functionality.",
-    link: "https://github.com/Dharmendra-Kumar148/student-portal.git",
+      "Narayan Binary Studios (NBS) specializes in advanced digital engineering and high-performance system design. Their Core Capabilities (as defined in their ecosystem) focus on four primary areas:Private AI Infrastructure, Custom Web Platforms, E-commerce Architectures, Binary Engineering.",
+    link: "https://github.com/Dharmendra-Kumar148/NBS.git",
+    liveDemo: "https://www.narayanbinarystudios.com",
   },
   {
     title: "Zentic",
@@ -17,13 +18,6 @@ const projects = [
     link: "https://github.com/Dharmendra-Kumar148/gptsearch.git",
     liveDemo: "https://gptsearch-ten.vercel.app/",
   },
-  {
-    title: "Daily Planner",
-    description:
-      "A responsive to-do app built with React. Features include task filtering, sorting, and a clear-all button. Strengthened skills in hooks, state, and UI design.",
-    link: "https://github.com/Dharmendra-Kumar148/react-to-do.git",
-  },
-  
   {
     title: "Medibot App",
     description:
